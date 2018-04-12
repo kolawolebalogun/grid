@@ -4,10 +4,6 @@
 - Squares should appear in the following color sequence: black, blue, cyan, green, magenta, red, yellow
 - Upon clicking each square, the background color of the clicked square should fade to the next color in the sequence.
 
-## Screenshots
-
-![iPhone](https://user-images.githubusercontent.com/8668661/38650374-7d32bd92-3dc9-11e8-84f2-2490a4aaadd6.png)
-
 ## Installation
 
 - run `npm install`
@@ -16,3 +12,8 @@
 	- `npm start`
 	- `react-native run-android`
 	- or `react-native` run-ios
+
+
+## Screenshots
+
+![iPhone](https://user-images.githubusercontent.com/8668661/38650374-7d32bd92-3dc9-11e8-84f2-2490a4aaadd6.png)
