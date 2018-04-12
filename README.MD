@@ -16,4 +16,4 @@
 
 ## Screenshots
 
-![iPhone](https://user-images.githubusercontent.com/8668661/38650374-7d32bd92-3dc9-11e8-84f2-2490a4aaadd6.png)
+![demo](https://user-images.githubusercontent.com/8668661/38675098-b2335d5c-3e24-11e8-8656-ac8e3bbba52e.png)
